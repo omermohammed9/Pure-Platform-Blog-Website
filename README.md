@@ -29,7 +29,7 @@ This is a simple yet powerful blog website developed as part of my internship at
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/blog-website.git
-    cd blog-website
+    cd Pure-Platform-Blog-Website
     ```
 
 2. Install dependencies:
