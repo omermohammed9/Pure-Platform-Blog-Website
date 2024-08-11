@@ -11,6 +11,7 @@ app.use(cors());
 
 const insertUserQuery = `INSERT INTO posts (name, post, date) VALUES (?, ?, ?)`;
 
+//POST Request to add data to DB
 app.post('/add/posts', async (req, res) => {
     const { name, post, date = Date.now() } = req.body;
     try {
