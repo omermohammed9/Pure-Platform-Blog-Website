@@ -1,4 +1,4 @@
-# Blog Website
+# Pure Platform Blog Website
 
 This is a simple yet powerful blog website developed as part of my internship at Pure Platform. The project initially started as a task to build a basic UI that interacts with back-end endpoints, but I extended it further by adding more features and functionalities.
 
