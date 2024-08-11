@@ -47,6 +47,7 @@ This is a simple yet powerful blog website developed as part of my internship at
 ## Usage
 
 - Add new posts by entering a name and content, then clicking the "Publish" button.
+- Add new posts as well by clicking 'Enter' button on your keyboard
 - Edit or delete posts by clicking the respective buttons on each post card.
 - Toggle between light and dark mode using the dark mode switch in the header.
 
